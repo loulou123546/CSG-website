@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+consecgroup.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.beeketing.com	TRUE	/	FALSE	1999999999	__cfduid	d84fc78bf37b366e6d2e5e6e8eee359bc1554926633
+consecgroup.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
