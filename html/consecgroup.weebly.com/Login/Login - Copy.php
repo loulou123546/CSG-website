@@ -344,13 +344,6 @@ body.wsite-background {background-attachment: fixed !important;}.wsite-backgroun
 					<div class="container">
 						<body>
 	
-	
-				<form action = "" method = "post" class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">>
-                  <label>UserName  :</label><input type = "text" name = "username" class = "box"/><br /><br />
-                  <label>Password  :</label><input type = "password" name = "password" class = "box" /><br/><br />
-                  <input type = "submit" value = " Submit "/><br />
-                </form>
-	
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
