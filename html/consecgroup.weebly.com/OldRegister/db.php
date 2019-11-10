@@ -1,7 +1,0 @@
-<?php
-$con = mysqli_connect("localhost","login","loginCSGCoder2015","register");
-if (mysqli_connect_errno())
-  {
-  echo "Failed to connect to MySQL: " . mysqli_connect_error();
-  }
-?>
