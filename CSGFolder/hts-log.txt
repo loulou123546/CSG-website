@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Apr 2019 22:03:48 at http://consecgroup.weebly.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://consecgroup.weebly.com/ -O1 "C:\Users\ruben\Documents\WesbiteDownload\CSG2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:03:49	Warning: 	Note: due to consecgroup.weebly.com remote robots.txt rules, links beginning with these path will be forbidden: /ajax/, /apps/ (see in the options to disable this)
+22:12:55	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/797293782.jpg" (from consecgroup.weebly.com/)
+22:12:55	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/2022388818.jpg" (from consecgroup.weebly.com/)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/r (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/weebly/libraries/videojs/video-js.swf (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/AppleWebKit/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/Mobile/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1554504316)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/2050787677.jpg" (from consecgroup.weebly.com/apply.html)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/1528579297.jpg" (from consecgroup.weebly.com/apply.html)
+22:13:01	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/168602552.jpg" (from consecgroup.weebly.com/services.html)
+22:13:02	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/132080156.png" (from consecgroup.weebly.com/hire-heavy-cargo-escort.html)
+22:13:02	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/357307175.jpg" (from consecgroup.weebly.com/hire-heavy-cargo-escort.html)
+22:13:02	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/2141121550.png" (from consecgroup.weebly.com/about.html)
+22:13:02	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/538692663.jpg" (from consecgroup.weebly.com/our-vision.html)
+22:13:52	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/1308711421.jpg" (from consecgroup.weebly.com/our-team.html)
+22:13:52	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/1506101421.jpg" (from consecgroup.weebly.com/our-partners.html)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/220237152.jpg" (from consecgroup.weebly.com/contact.html)
+22:13:54	Warning: 	Moved Permanently for consecgroup.weebly.com/store/checkout/
+22:13:54	Warning: 	Redirected link is identical because of 'URL Hack' option: consecgroup.weebly.com/store/checkout/ and https://consecgroup.weebly.com/store/checkout/
+22:13:54	Warning: 	File has moved from consecgroup.weebly.com/store/checkout/ to https://consecgroup.weebly.com/store/checkout/
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/ecommerce.js (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/data functions should return an object: (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/edge/ (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/You are running Vue in development mode. (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/store/account/ (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/images/customer-accounts/arrow-left.svg (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/images/customer-accounts/check.svg (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/images/customer-accounts/close-icon.svg (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/dist/ (from cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1554504316)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/payload.js (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/POST (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/1356386640.jpg" (from consecgroup.weebly.com/partner-with-us.html)
+22:13:54	Error: 	"Not Found" (404) at link consecgroup.weebly.com/"/uploads/4/5/5/3/45539627/background-images/1987313323.jpg" (from consecgroup.weebly.com/mail.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 20 seconds : 205 links scanned, 169 files written (19488607 bytes overall) [16120892 bytes received at 26001 bytes/sec], 4911640 bytes transferred using HTTP compression in 35 files, ratio 26%, 4.6 requests per connection
+(34 errors, 4 warnings, 0 messages)

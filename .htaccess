@@ -1,0 +1,8 @@
+# BEGIN WordPress
+
+# END WordPress
+
+<IfModule mod_substitute.c>
+SubstituteMaxLineLength 30m
+</IfModule>
+LimitRequestBody 9999999
